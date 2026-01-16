@@ -1,3 +1,4 @@
-Nmae: Abdiqani Abshir Ahmed 
-Id: C1220881
-className: CA222
+
+- **Name:** Abdiqani Abshir Ahmed
+- **ID:** C1220881
+- **Class Name:** CA222
